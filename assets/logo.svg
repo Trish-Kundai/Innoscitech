@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" role="img" aria-labelledby="title desc">
+  <title id="title">Innoscitech logo</title>
+  <desc id="desc">A stylized technology-inspired logo for Innoscitech.</desc>
+  <rect x="18" y="20" width="120" height="120" rx="24" fill="#0F172A"/>
+  <rect x="46" y="48" width="64" height="16" rx="8" fill="#22D3EE"/>
+  <rect x="46" y="74" width="38" height="16" rx="8" fill="#22D3EE"/>
+  <rect x="46" y="100" width="64" height="16" rx="8" fill="#A7F3D0"/>
+  <circle cx="120" cy="82" r="16" fill="#A7F3D0"/>
+  <text x="168" y="92" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="#0F172A">Innoscitech</text>
+</svg>
